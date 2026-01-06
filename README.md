@@ -4,6 +4,8 @@
 
 A **2D top-down dungeon crawler** built with **Unity**. Explore procedurally generated rooms, fight diverse enemies, collect loot, and improve your character as you progress through challenging dungeons. Inspired by games like *Binding of Isaac* and *Enter the Gungeon*.
 
+![Main Menu](https://github.com/Lunw07/2D-Dungeon-Crawler/blob/main/MainMenu.png?raw=true)
+
 ---
 
 ## Features
